@@ -14,9 +14,9 @@ For different datasets, their parameters can be set as follows:
 * YALE: qStart = 1; qNum = 11; qStride = 0.01; rStart = 0; rNum = 9; rStride = 0.1
 
 ## Reference
-Multi-View K-Means Clustering on Big Data. (IJCAI,2013).
-Discriminatively Embedded K-Means for Multi-view Clustering. (CVPR,2016)
-Robust and Sparse Fuzzy K-Means Clustering. (IJCAI2016)
-A new simplex sparse learning model to measure data similarity for clustering (AAAI2015)
-COMPACT: A Comparative Package for Clustering Assessment. (ISPA2005)
-https://github.com/ZJULearning/MatlabFunc/tree/master/Clustering
+* Multi-View K-Means Clustering on Big Data. (IJCAI,2013).
+* Discriminatively Embedded K-Means for Multi-view Clustering. (CVPR,2016)
+* Robust and Sparse Fuzzy K-Means Clustering. (IJCAI2016)
+* A new simplex sparse learning model to measure data similarity for clustering (AAAI2015)
+* COMPACT: A Comparative Package for Clustering Assessment. (ISPA2005)
+* https://github.com/ZJULearning/MatlabFunc/tree/master/Clustering

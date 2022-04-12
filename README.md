@@ -1,5 +1,4 @@
-This repository contains the PyTorch implementation for MVASM. (TKDE 2020)
-[Paper](https://ieeexplore.ieee.org/document/9063441)
+This repository contains the PyTorch implementation for MVASM. [TKDE 2020](https://ieeexplore.ieee.org/document/9063441)
 
 ## Datasets
 * [COIL20](http://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php)
